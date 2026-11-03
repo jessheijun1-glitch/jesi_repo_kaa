@@ -80,6 +80,10 @@ $uri = strtolower($uri);
         $controller->index();
         break;
 
+        case '/dashboard':
+    include __DIR__ . '/../views/dashboard.php';
+    break;
+    
     default:
         http_response_code(404);
         echo "404 - Halaman tidak ditemukan";
