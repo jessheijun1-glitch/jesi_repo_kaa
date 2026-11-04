@@ -1,4 +1,4 @@
-<h1>Selamat Datang di MyStore JESSHEI</h1>
+<h1>Selamat Datang di MyStore JESSHEISHOP</h1>
 
 <p>
     Sistem manajemen toko yang membantu Anda mengelola produk,

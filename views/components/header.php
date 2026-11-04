@@ -1,4 +1,4 @@
 <header>
-    <h1>MVC MyStore JESSHEI</h1>
+    <h1>JESSHEISHOP</h1>
     <p>Sistem Manajemen Toko</p>
 </header>
